@@ -1,0 +1,13 @@
+{
+  "id": "taskade",
+  "name": "Taskade",
+  "version": "1.0.0",
+  "description": "Taskade",
+  "main": "index.js",
+  "author": "Thiscode.works <michal@thiscode.works>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://taskade.com",
+    "hasNotificationSound": true
+  }
+}
